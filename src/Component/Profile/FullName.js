@@ -4,9 +4,11 @@ const lastName = "Krichen";
 
 const FullName = () => {
   return (
-    <h1>
-      {firstName} {lastName}
-    </h1>
+    <div className="fullname">
+      <h1>
+        {firstName} {lastName}
+      </h1>
+    </div>
   );
 };
 

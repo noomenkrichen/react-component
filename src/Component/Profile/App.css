@@ -1,0 +1,18 @@
+.photo {
+  display: flex;
+}
+
+.photo img {
+  width: 300px;
+  margin: auto;
+}
+
+.fullname {
+  width: 100%;
+  text-align: center;
+}
+
+.address {
+  width: 100%;
+  text-align: center;
+}
